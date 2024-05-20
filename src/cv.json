@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Javier Nuñez Falcón",
+    "label": "Desarrollador Web",
+    "image": "dv.jpg",
+    "email": "john@gmail.com",
+    "phone": "(912) 555-4321",
+    "url": "https://johndoe.com",
+    "summary": "+10 años trabajando con la programación. Enfocado en tecnología web backend. Con capacidad para resolver tareas de manera individual. Siempre apto para enfrentar nuevos retos, dispuesto a superarme y aprender.",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "john",
+      "url": "https://twitter.com/john"
+    }]
+  },
+  "education": {
+    "institution": "Instituto Superior Politécnico Jose Antonio Echeverria",
+    "url": "https://institution.com/",
+    "area": "Ingeniería en Ciencias Informáticas",
+    "studyType": "Bachelor",
+    "startDate": "2003",
+    "endDate": "2008",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+  "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Jquery",
+      "Bootstrap",
+      "Vue",
+      "React",
+      "Php",
+      "Symfony",
+      "Laravel",
+      "Python",
+      "Django",
+      "Mysql",
+      "Wordpress",
+      "Drupal",
+      "Git",
+      "Github"
+  ],
+  "experiences": [{
+    "job": "Especialista B en Ciencias Informáticas ",
+    "company": "Instituto para el Control de Equipos y Dispositivos Médicos",
+    "startDate": "05/2017",
+    "endDate": "Presente",
+    "description": "Encargado de llevar a cabo la informatización de los procesos internos del centro, destacando la creación y mantenimiento de múltiples proyectos utilizando tecnologías como Laravel, Symfony y Django."    
+  },
+  {
+    "job": "Especialista C en Ciencias Informáticas",
+    "company": "Empresa de Gas Licuado de la Habana",
+    "startDate": "02/2016",
+    "endDate": "04/2017",
+    "description": "Implementé un sistema de reporte y gestión de incidencias a la medida utilizando Symfony y estuve a cargo del rediseño y mantenimiento de la web del centro en la plataforma Wordpress."    
+  },
+  {
+    "job": "Docente",
+    "company": "Instituto Politécnico Mártires de Girón",
+    "startDate": "09/2008",
+    "endDate": "06/2014",
+    "description": "Me desempeñé como docente en los cursos de formación de técnicos medios en informática impartiendo asignaturas como Lenguaje y Técnicas de Programación, Introducción a la Programación y Programación Web."    
+  } 
+  ],
+  "projects": [{
+    "name": "Project",
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "description": "Description...",
+    "highlights": [
+      "Won award at AIHacks 2016"
+    ],
+    "url": "https://project.com/"
+  }]
+}
